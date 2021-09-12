@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Aaftab-khan
+- 👀 I’m interested in Web Development
+- 🌱 I’m currently learning machine learning
