@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Aaftab-khan
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning machine learning
+- 👋 Hi, I’m @Aaftab-khan, I am working in an IT institute as Assistant Professor
+- 👀 I’m interested in Web Development using modern Framework such as Angual and React.
+- 🌱 I’m currently learning sentiment analysis  
